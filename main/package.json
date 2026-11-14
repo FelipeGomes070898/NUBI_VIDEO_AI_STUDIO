@@ -1,0 +1,1 @@
+{"name":"nubi-video-ai-studio","version":"0.1.0","private":true,"description":"NUBI audiovisual production platform starter","scripts":{"start":"python -m uvicorn backend.main:app --host 127.0.0.1 --port 8000"}}
